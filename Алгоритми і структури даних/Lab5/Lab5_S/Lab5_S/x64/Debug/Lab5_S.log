@@ -1,0 +1,5 @@
+﻿  Lab5_S.cpp
+D:\Studying\RSHU\Алгоритми і структури даних\Lab5\Lab5_S\Lab5_S\Lab5_S.cpp(100,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Studying\RSHU\Алгоритми і структури даних\Lab5\Lab5_S\Lab5_S\Lab5_S.cpp(140,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Studying\RSHU\Алгоритми і структури даних\Lab5\Lab5_S\Lab5_S\Lab5_S.cpp(177,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Lab5_S.vcxproj -> D:\Studying\RSHU\Алгоритми і структури даних\Lab5\Lab5_S\x64\Debug\Lab5_S.exe

@@ -1,0 +1,5 @@
+﻿  Lab3_S.cpp
+D:\Studying\RSHU\Алгоритми і структури даних\Lab3\Lab3_S\Lab3_S\Lab3_S.cpp(54,17): warning C4129: 'H': unrecognized character escape sequence
+D:\Studying\RSHU\Алгоритми і структури даних\Lab3\Lab3_S\Lab3_S\Lab3_S.cpp(60,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Studying\RSHU\Алгоритми і структури даних\Lab3\Lab3_S\Lab3_S\Lab3_S.cpp(107,17): warning C4129: 'H': unrecognized character escape sequence
+  Lab3_S.vcxproj -> D:\Studying\RSHU\Алгоритми і структури даних\Lab3\Lab3_S\x64\Debug\Lab3_S.exe

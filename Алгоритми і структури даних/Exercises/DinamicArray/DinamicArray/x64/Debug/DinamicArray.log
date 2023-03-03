@@ -1,0 +1,9 @@
+﻿  DinamicArray.cpp
+D:\Studying\RSHU\Алгоритми і структури даних\Exercises\DinamicArray\DinamicArray\DinamicArray.cpp(22,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Studying\RSHU\Алгоритми і структури даних\Exercises\DinamicArray\DinamicArray\DinamicArray.cpp(44,25): warning C4244: '=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+D:\Studying\RSHU\Алгоритми і структури даних\Exercises\DinamicArray\DinamicArray\DinamicArray.cpp(52,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  DinamicArray.vcxproj -> D:\Studying\RSHU\Алгоритми і структури даних\Exercises\DinamicArray\x64\Debug\DinamicArray.exe
