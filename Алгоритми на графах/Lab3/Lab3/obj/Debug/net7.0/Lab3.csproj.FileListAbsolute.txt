@@ -1,0 +1,15 @@
+D:\Studying\RSHU\Алгоритми на графах\Lab3\Lab3\bin\Debug\net7.0\Lab3.exe
+D:\Studying\RSHU\Алгоритми на графах\Lab3\Lab3\bin\Debug\net7.0\Lab3.deps.json
+D:\Studying\RSHU\Алгоритми на графах\Lab3\Lab3\bin\Debug\net7.0\Lab3.runtimeconfig.json
+D:\Studying\RSHU\Алгоритми на графах\Lab3\Lab3\bin\Debug\net7.0\Lab3.dll
+D:\Studying\RSHU\Алгоритми на графах\Lab3\Lab3\bin\Debug\net7.0\Lab3.pdb
+D:\Studying\RSHU\Алгоритми на графах\Lab3\Lab3\obj\Debug\net7.0\Lab3.csproj.AssemblyReference.cache
+D:\Studying\RSHU\Алгоритми на графах\Lab3\Lab3\obj\Debug\net7.0\Lab3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studying\RSHU\Алгоритми на графах\Lab3\Lab3\obj\Debug\net7.0\Lab3.AssemblyInfoInputs.cache
+D:\Studying\RSHU\Алгоритми на графах\Lab3\Lab3\obj\Debug\net7.0\Lab3.AssemblyInfo.cs
+D:\Studying\RSHU\Алгоритми на графах\Lab3\Lab3\obj\Debug\net7.0\Lab3.csproj.CoreCompileInputs.cache
+D:\Studying\RSHU\Алгоритми на графах\Lab3\Lab3\obj\Debug\net7.0\Lab3.dll
+D:\Studying\RSHU\Алгоритми на графах\Lab3\Lab3\obj\Debug\net7.0\refint\Lab3.dll
+D:\Studying\RSHU\Алгоритми на графах\Lab3\Lab3\obj\Debug\net7.0\Lab3.pdb
+D:\Studying\RSHU\Алгоритми на графах\Lab3\Lab3\obj\Debug\net7.0\Lab3.genruntimeconfig.cache
+D:\Studying\RSHU\Алгоритми на графах\Lab3\Lab3\obj\Debug\net7.0\ref\Lab3.dll
