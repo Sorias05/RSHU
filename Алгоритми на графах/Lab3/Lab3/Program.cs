@@ -53,13 +53,13 @@ namespace Lab3
             graph.AddEdge(v8, v6, 2);
             graph.AddEdge(v8, v7, 3);
             //вираховуємо найдешевші (найкоротші) шляхи обходу графу із заданої вершини
-            int[] distances = graph.Dijkstra(6);
-            //виведемо найкоротші (найдешевші) маршрути із вершини 6
+            int[] distances = graph.Dijkstra(8);
+            //виведемо найкоротші (найдешевші) маршрути із вершини 8
             Console.WriteLine("Вершина\tВартість Маршрут");
             for (int i = 0; i < graph.VertexCount; i++)//перебираємо всі вершини
             {
                 Console.Write((i + 1) + "\t" + distances[i] + " \t");//+1 бо в нас вершини починаються з 1ці, а масив з 0ля
-                List<int> path = graph.GetPath_Dijkstra(i, 5, graph.prev);//визначаємо маршрут
+                List<int> path = graph.GetPath_Dijkstra(i, 7, graph.prev);//визначаємо маршрут
                 foreach (int v in path)//перебираємо всі вершини шляху і змінну v
                 {
                     Console.Write(" " + (v + 1));//виводимо влідуючу вершину маршруту
