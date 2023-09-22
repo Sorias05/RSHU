@@ -1,0 +1,6 @@
+a=int(input("Input 1 number: "))
+b=int(input("Input 2 number: "))
+c=int(input("Input 3 number: "))
+print(int(a / 10))
+print(int(b / 10))
+print(int(c / 10))
