@@ -1,0 +1,4 @@
+Hello*world!
+Python*is&amazing.
+Testing&input*file.
+Replace*and&symbols.
